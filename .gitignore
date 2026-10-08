@@ -1,2 +1,4 @@
 
-sistema_provas.db
+*.db
+*.exe
+*.ico
