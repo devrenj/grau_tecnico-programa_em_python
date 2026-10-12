@@ -2,7 +2,7 @@
 
 ## Comando para clonar
 
-`git@github.com:devrenj/grau_tecnico-programa_em_python.git`
+`git clone git@github.com:devrenj/grau_tecnico-programa_em_python.git`
 
 ## Informações do Projeto
 
