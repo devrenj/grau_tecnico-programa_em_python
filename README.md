@@ -1,5 +1,9 @@
 # Projeto de Programa em Python
 
+## Comando para clonar
+
+`git@github.com:devrenj/grau_tecnico-programa_em_python.git`
+
 ## Informações do Projeto
 
 Repositório: [GitHub](https://github.com/devrenj/grau_tecnico-programa_em_python)
